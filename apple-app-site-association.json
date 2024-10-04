@@ -1,0 +1,22 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "WGMLG78T9W.com.clouser-theQwiz.StockGeniusNew",
+                "paths" : [
+                "components" : [
+                    {
+                        "/": "/plaid-alpha/redirect/*"
+                        "comment" : "OAuth Redirect from Plaid"
+                    }
+                ]
+                "paths": [
+                    "/path1/*",
+                    "/path2/*",
+                    "NOT /excluded-path/*"
+                ]
+            }
+        ]
+    }
+}
